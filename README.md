@@ -4,9 +4,8 @@
 `TODO://` My app allows the user to change the color of the display font, along with changing the background color of the app to Facebook's reknown blue.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="" width=200><br>
+<img src="https://imgur.com/gHMF5j0" width=200><br>
 
 
 
